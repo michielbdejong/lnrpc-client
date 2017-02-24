@@ -1,6 +1,6 @@
 
 No code was written in the making this npm package.
-It was generated automatically from the `lnrpc/rpc.proto` file in https://github.com/lightningnetworks/lnd, using gRPC tools.
+It was generated automatically from the `lnrpc/rpc.proto` file in https://github.com/lightningnetwork/lnd, using gRPC tools.
 
 By running `npm test` you can see that this package exposes the entire API of LND v0.1.1-alpha.
 
