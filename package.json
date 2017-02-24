@@ -1,6 +1,6 @@
 {
   "name": "lnrpc-client",
-  "version": "0.1.1-alpha",
+  "version": "0.1.1-alpha-2",
   "description": "A gRPC client for the Lightning Network Daemon (LND), generated automatically from their lnrpc/rpc.proto file",
   "main": "rpc_grpc_pb.js",
   "scripts": {
