@@ -1,4 +1,6 @@
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/michielbdejong/lnrpc-client.svg)](https://greenkeeper.io/)
+
 No code was written in the making this npm package.
 It was generated automatically from the `lnrpc/rpc.proto` file in https://github.com/lightningnetwork/lnd, using gRPC tools.
 
